@@ -1,7 +1,9 @@
 - 👋 Hi, I’m @aliciaNB
 - 👀 I’m interested in all things software devevelopment
-- 🌱 I’m currently a very curious individual: learning C++ and exploring large scale system design 
-- 💭 Recently exploring: 
+- 🌱 I’m currently a very curious individual: 
+     - learning C++ 
+     - exploring large scale system design 
+- 💭 Recent adventures: 
      - Flutter, Dart, and app development
      - Ruby and Ruby on Rails
      - Discord Developer community and bot automations + app development 
